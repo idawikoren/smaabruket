@@ -1,0 +1,7 @@
+{
+  "name": "Småbruket",
+  "dependencies": {
+    "foundation": "~5.*",
+    "jquery": "~2.*"
+  }
+}

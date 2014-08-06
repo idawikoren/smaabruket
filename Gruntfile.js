@@ -5,18 +5,11 @@ module.exports = function(grunt)
 	var js_files = [
 		// libraries we use
 		"./assets/bower_components/jquery/dist/jquery.min.js",
-		//"./assets/bower_components/handlebars/handlebars.js",
-		//"./assets/bower_components/underscore/underscore.js",
-		//"./assets/bower_components/backbone/backbone.js",
 		"./assets/bower_components/modernizr/modernizr.js",
 		"./assets/bower_components/foundation/js/foundation.js",
-		//"./assets/bower_components/foundation/js/foundation/foundation.reveal.js",
-		//"./assets/bower_components/foundation/js/foundation/foundation.abide.js",
-		//"./assets/bower_components/typeahead.js/dist/typeahead.bundle.js",
-		//"./assets/bower_components/moment/min/moment-with-langs.js",
 
 		// our own files
-		
+		// nothing!
 	];
 
 	grunt.initConfig({

@@ -86,7 +86,7 @@ require "helper.php";
                     <li>Utendørs vannkran åpen året rundt</li>
                     <li>Utedo</li>
                     <li>Bålplass og sittegruppe ute med flott utsikt over Oslofjorden</li>
-                    <li>Utendørs badestamp (må forhåndavtales, ikke tilgjengelig per aug 2014)</li>
+                    <li>Utendørs badestamp (kr 1000 i depositum, pluss kr 1000 totalt for lån, må forhåndavtales)</li>
                   </ul>
                 </div>
                 <div class="medium-4 columns">
@@ -110,7 +110,7 @@ require "helper.php";
                 <dd>Se <a href="http://maps.google.no/?q=http://www.skiforeningen.no/markadb/kml/loypestatus/1.kml">kart fra markadatabasen</a>. Hytta ligger like ved Brunkollen. Den store grusveien på kartet ovenfor er også måkt og kan brukes som gangvei.</dd>
 
                 <dt>Kjøretillatelse</dt>
-                <dd>Det er ikke anledning å kjøre bil frem til hytta/Brunkollen. Nærmeste parkering er angitt på kartet nedenfor. Løvenskiold Skog innvilger dessverre ikke kjøretillatelser på veiene til leietakere. Evt. henvendelser rundt må rettes til <a href="mailto:bom@lovenskiold.no">bom@lovenskiold.no</a>.</p>
+                <dd>Det er ikke anledning å kjøre bil frem til hytta/Brunkollen. Nærmeste parkering er angitt på kartet nedenfor. Løvenskiold Skog innvilger dessverre ikke kjøretillatelser på veiene til leietakere. 
               
               <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.no/maps/ms?ie=UTF8&amp;hl=no&amp;msa=0&amp;msid=205357112404663307536.000492263fbcdabf214fa&amp;ll=59.963462,10.588868&amp;spn=0.1,0.1&amp;output=embed"></iframe>
               <br /><small>Vis <a href="http://maps.google.no/maps/ms?ie=UTF8&amp;hl=no&amp;msa=0&amp;msid=205357112404663307536.000492263fbcdabf214fa&amp;ll=59.963462,10.588868&amp;spn=0.1,0.1&amp;source=embed" style="color:#0000FF;text-align:left">Småbruket</a> i et større kart</small>
@@ -127,14 +127,14 @@ require "helper.php";
               <ul>
                 <li>Minstepris:
                   <ul>
-                    <li>Per døgn til en hverdag: kr 300</li>
-                    <li>Per døgn til en helgdag: kr 500</li>
+                    <li>Per døgn til en hverdag: kr 500 (fra nyttår)</li>
+                    <li>Per døgn til en helgdag: kr 1000 (fra nyttår)</li>
                     <li>Vedforbruk regnes utenom minsteprisen</li>
                   </ul>
                 </li>
                 <li>Per person SiO-medlem: kr 100 per natt</li>
                 <li>Per person andre: kr 130 per natt</li>
-                <li>Per vedsekk (80-liter-sekk): kr 130</li>
+                <li>Per vedsekk: kr 130</li>
               </ul>
               <p>For beboere ved Blindern Studenterhjem gjelder egne priser. Gamle beboere (GB-ere) ved studenterhjemmet får pris tilsvarende SiO-medlemmer.</p>
 
@@ -208,6 +208,7 @@ require "helper.php";
                 avtale overlevering av n&oslash;kkel, samt skrive under en leiekontrakt.</p>
               <p>Etter turen tar du kontakt med utleieansvarlig for &aring; levere tilbake n&oslash;kkel.
                 Du m&aring; ogs&aring; opplyse hvor mange personer som brukte hytta samt hvor mange vedsekker som er brukt.</p>
+              <p>Avtalt tidspunkt må være mellom kl 17 og kl 19 onsdager.</p>
               <p><a href="https://drive.google.com/file/d/0BzUci_Chp_j9ZFN0ZkdMOXRFNlU/edit?usp=sharing">Se leiekontrakt</a> <i>(Vi har kontrakter liggende klare, så du trenger ikke å ta med.)</i></p>
               
 
@@ -472,13 +473,14 @@ else
               <p><b>Alle reservasjoner må sendes per e-post.</b></p>
               <dl>
                 <dt>E-post</dt>
+                <dd><i>Send helst e-post med mindre det haster</i></dd>
                 <dd><a href="mailto:hyttestyret@gmail.com">hyttestyret@gmail.com</a></dd>
                 <dt>Utleiesjef</dt>
-                <dd>Christina Moltke-Hansen, 406 03 071</dd>
+                <dd>Vemund Vige, 413 66 687</dd>
                 <dt>Utleiesjef</dt>
-                <dd>Markus Onniselkä, 948 66 532</dd>
+                <dd>Maja Fjellvær Thompson, 464 25 762</dd>
                 <dt>Hyttesjef</dt>
-                <dd>Andreas Vinnelrød, 984 78 840</dd>
+                <dd>Sandra Wolter-Paulsen, 995 68 699</dd>
               </dl>
 
 

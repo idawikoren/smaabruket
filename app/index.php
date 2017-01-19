@@ -86,7 +86,7 @@ require "helper.php";
                     <li>Utendørs vannkran åpen året rundt</li>
                     <li>Utedo</li>
                     <li>Bålplass og sittegruppe ute med flott utsikt over Oslofjorden</li>
-                    <li>Utendørs badestamp (kr 1000 i depositum, pluss kr 1000 totalt for lån, må forhåndavtales)</li>
+                    <li>Utendørs badestamp (må forhåndsavtales, ekstra kostnad kr 1 000 som må forhåndsbetales som ekstra depositum)</li>
                   </ul>
                 </div>
                 <div class="medium-4 columns">
@@ -110,25 +110,24 @@ require "helper.php";
                 <dd>Se <a href="http://maps.google.no/?q=http://www.skiforeningen.no/markadb/kml/loypestatus/1.kml">kart fra markadatabasen</a>. Hytta ligger like ved Brunkollen. Den store grusveien på kartet ovenfor er også måkt og kan brukes som gangvei.</dd>
 
                 <dt>Kjøretillatelse</dt>
-                <dd>Det er ikke anledning å kjøre bil frem til hytta/Brunkollen. Nærmeste parkering er angitt på kartet nedenfor. Løvenskiold Skog innvilger dessverre ikke kjøretillatelser på veiene til leietakere. 
-              
+                <dd>Det er ikke anledning å kjøre bil frem til hytta/Brunkollen. Nærmeste parkering er angitt på kartet nedenfor. Løvenskiold Skog innvilger dessverre ikke kjøretillatelser på veiene til leietakere.</dd>
+
               <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.no/maps/ms?ie=UTF8&amp;hl=no&amp;msa=0&amp;msid=205357112404663307536.000492263fbcdabf214fa&amp;ll=59.963462,10.588868&amp;spn=0.1,0.1&amp;output=embed"></iframe>
               <br /><small>Vis <a href="http://maps.google.no/maps/ms?ie=UTF8&amp;hl=no&amp;msa=0&amp;msid=205357112404663307536.000492263fbcdabf214fa&amp;ll=59.963462,10.588868&amp;spn=0.1,0.1&amp;source=embed" style="color:#0000FF;text-align:left">Småbruket</a> i et større kart</small>
             </div>
 
             <hr>
 
-            
+
             <div class="subsection" id="leie" data-magellan-destination="leie">
               <h2>Leie Småbruket</h2>
 
               <h3>Priser for leie av Småbruket</h3>
-              <!--<p style="color: #FF0000">Vedprisen ble endret fra kr 120 til kr 130 gjeldende per 1. januar 2014.</p>-->
               <ul>
                 <li>Minstepris:
                   <ul>
-                    <li>Per døgn til en hverdag: kr 500 (fra nyttår)</li>
-                    <li>Per døgn til en helgdag: kr 1000 (fra nyttår)</li>
+                    <li>Per døgn til en hverdag: kr 500</li>
+                    <li>Per døgn til en helgdag: kr 1 000</li>
                     <li>Vedforbruk regnes utenom minsteprisen</li>
                   </ul>
                 </li>
@@ -138,47 +137,9 @@ require "helper.php";
               </ul>
               <p>For beboere ved Blindern Studenterhjem gjelder egne priser. Gamle beboere (GB-ere) ved studenterhjemmet får pris tilsvarende SiO-medlemmer.</p>
 
-              <p><a href="#" data-reveal-id="priseksempler">Vis priseksempler</a></p>
-              <div id="priseksempler" class="reveal-modal" data-reveal>
-                <h2>Priseksempler</h2>
-                <p><b>Eksempler på reservasjonsdepositum (minstepris):</b></p>
-                <ul>
-                  <li>Overnatting mandag-onsdag: kr 300 + kr 300 = <u>kr 600</u></li>
-                  <li>Overnatting fredag-søndag: kr 500 + kr 500 = <u>kr 1000</u></li>
-                  <li>Overnatting fredag-lørdag: kr 500 = <u>kr 500</u></li>
-                </ul>
-                <p><b>Priseksempel: 1 døgn i helg, 10 SiO-medlemmer, 2 vedsekker</b></p>
-                <ul>
-                  <li>10 SiO-medlemmer 1 døgn: kr 100 * 10 = <u>kr 1 000</u></li>
-                  <li>Totalt gjester: <u>kr 1 000</u></li>
-                  <li>Minstepris: kr 500 (totalbeløpet er over minsteprisen)</li>
-                  <li>2 vedsekker: kr 130 * 2 = <u>kr 260</u></li>
-                  <li>Å betale: kr 1 000 + kr 260 = <b><u>kr 1 260</u></b></li>
-                </ul>
-                <p><b>Priseksempel: 2 døgn i helg, 4 SiO-medlemmer, 10 øvrige (5 kun ett døgn), 5 vedsekker</b></p>
-                <ul>
-                  <li>4 SiO-medlemmer 2 døgn: kr 100 * 4 * 2 = <u>kr 800</u></li>
-                  <li>10 øvrige 1 døgn: kr 130 * 10 * 1 = <u>kr 1 300</u></li>
-                  <li>5 øvrige 1 døgn: kr 130 * 5 * 1 = <u>kr 650</u></li>
-                  <li>Totalt gjester: kr 800 + kr 1 300 + kr 650 = <u>kr 2 750</u></li>
-                  <li>Minstepris: kr 500 * 2 = kr 1 000 (totalbeløpet er over minsteprisen)</li>
-                  <li>5 vedsekker: kr 130 * 5 = <u>kr 650</u></li>
-                  <li>Å betale: kr 2 750 + kr 650 = <b><u>kr 3 400</u></b></li>
-                </ul>
-                <p><b>Priseksempel: 1 døgn i hverdag og 1 døgn i helg, 3 SiO-medlemmer, 2 vedsekker</b></p>
-                <ul>
-                  <li>3 SiO-medlemmer 2 døgn: kr 100 * 3 * 2 = <u>kr 600</u></li>
-                  <li>Minstepris: kr 300 + kr 500 = <u>kr 800</u></li>
-                  <li>Totalt gjester: <u>kr 800</u> (minstepris blir gjeldende)</li>
-                  <li>2 vedsekker: kr 130 * 2 = <u>kr 260</u></li>
-                  <li>Å betale: kr 800 + kr 260 = <b><u>kr 1 060</u></b></li>
-                </ul>
-                  <a class="close-reveal-modal">&#215;</a>
-              </div>
-
               <h3>Tidsbestemmelser</h3>
               <p>Man kan oppholde seg på Småbruket frem til senest kl 14. Småbruket er tilgjengelig for leie fra kl 15. Det kan om mulig avtales andre tidspunkter ved spesielle behov.</p>
-              
+
               <h3>Reservasjonsdepositum</h3>
               <p>Et reservasjonsdepositum tilsvarende minstepris m&aring; betales
               senest en uke etter reservering av hytta. Du har da
@@ -209,8 +170,8 @@ require "helper.php";
               <p>Etter turen tar du kontakt med utleieansvarlig for &aring; levere tilbake n&oslash;kkel.
                 Du m&aring; ogs&aring; opplyse hvor mange personer som brukte hytta samt hvor mange vedsekker som er brukt.</p>
               <p>Avtalt tidspunkt må være mellom kl 17 og kl 19 onsdager.</p>
-              <p><a href="https://drive.google.com/file/d/0BzUci_Chp_j9ZFN0ZkdMOXRFNlU/edit?usp=sharing">Se leiekontrakt</a> <i>(Vi har kontrakter liggende klare, så du trenger ikke å ta med.)</i></p>
-              
+              <p><a href="https://drive.google.com/file/d/0B8mINoGULmbPdGtscXJVT25ocDA/view?usp=sharing">Se leiekontrakt</a> <i>(Vi har kontrakter liggende klare, så du trenger ikke å ta med.)</i></p>
+
 
             </div>
 
@@ -308,8 +269,8 @@ require "helper.php";
                     kokende vann over røret som kommer opp av bakken.</dd>
                 
                 <dt>Må vi ta med egen ved?</dt>
-                <dd>Det er masse ved i kjelleren på hytta, så dette skal ikke være nødvendig. Vedsekkene er 80-liters sekker.</dd>
-                
+                <dd>Det er masse ved i kjelleren på hytta, så dette skal ikke være nødvendig. Vedsekkene er 60-liters sekker.</dd>
+
                 <dt>Hvor lang tid tar det å gå opp til hytta?</dt>
                 <dd>Fra Skytterkollen kan man regne ca. 40-60 minutter om sommeren.
                     Fra Ila (der bussen stopper) til Skytterkollen tar det ca. 10 minutter.
@@ -475,12 +436,13 @@ else
                 <dt>E-post</dt>
                 <dd><i>Send helst e-post med mindre det haster</i></dd>
                 <dd><a href="mailto:hyttestyret@gmail.com">hyttestyret@gmail.com</a></dd>
-                <dt>Utleiesjef</dt>
-                <dd>Vemund Vige, 413 66 687</dd>
-                <dt>Utleiesjef</dt>
-                <dd>Maja Fjellvær Thompson, 464 25 762</dd>
+                <dt>Utleiesjefer</dt>
+                <dd>Sofie Helle, 41 09 06 05</dd>
+
+                <dd>Axel Haraldsen-Sverre, 99 36 49 86</dd>
+
                 <dt>Hyttesjef</dt>
-                <dd>Sandra Wolter-Paulsen, 995 68 699</dd>
+                <dd>Anders Lieblein Røsæg, 99 23 82 12</dd>
               </dl>
 
 

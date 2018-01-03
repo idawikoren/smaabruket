@@ -81,10 +81,10 @@ require "helper.php";
                     <li>24 sengeplasser og hems med madrasser (senger/madrasser til 34 personer, er dog plass til flere)</li>
                     <li>Stor stue med peis og ovn</li>
                     <li>Brettspill, kort, gitar og stereoanlegg</li>
-                    <li>Flott kj&oslash;kken (oppf&oslash;rt i 2007) med stort kj&oslash;leskap, komfyr, mye servise, og det du ellers skulle trenge for &aring; lage et gourmetm&aring;ltid</li>
+                    <li>Flott kj&oslash;kken (oppf&oslash;rt i 2007) med stort kj&oslash;leskap, komfyr, visp, kaffemaskin, vannkokere, mye servise, og det du ellers skulle trenge for &aring; lage et gourmetm&aring;ltid</li>
                     <li>Vedfyrt badstue og 2 dusjer</li>
                     <li>Utendørs vannkran åpen året rundt</li>
-                    <li>Utedo</li>
+                    <li>Utedo (ny og fin snurredass 2017)</li>
                     <li>Bålplass og sittegruppe ute med flott utsikt over Oslofjorden</li>
                     <li>Utendørs badestamp (må forhåndsavtales, ekstra kostnad kr 1 000 som må forhåndsbetales som ekstra depositum)</li>
                   </ul>
@@ -233,7 +233,7 @@ require "helper.php";
                 <ul>
                   <li>Hodelykt</li>
                   <li>Mobillader</li>
-                  <li>T-banekort og penger (<i><a href="https://www.facebook.com/pages/Brunkollen-Turisthytte/171041842941781?fref=ts">Brunkollen Turisthytte</a> selger ofte boller i helgene, og du skal kanskje ta bussen?</i>)</li>
+                  <li>T-banekort og penger (<i><a href="https://www.facebook.com/pages/Brunkollen-Turisthytte/171041842941781?fref=ts">Brunkollen Turisthytte</a> har automatsalg av diverse godsaker og av og til utsalg av mat.</i>)</li>
                 </ul>
               </div>
 
@@ -291,7 +291,7 @@ require "helper.php";
                 <dd>Nei, dette skal det være masse av på hytta. Skulle det være tomt i boden, ring hyttestyret så sier vi hvor dere finner mer.</dd>
 
                 <dt>Hva slags kjøkkenmaskiner er det på hytta?</dt>
-                <dd>Hytta er utstyrt med ovn, kokeplater og kjøleskap. I tillegg er det visp og vannkokere. Det er dessverre ikke fryser, oppvasksmaskin (ikke innlagt vann) eller kaffetrakter på hytta.</dd>
+                <dd>Hytta er utstyrt med ovn, kokeplater og kjøleskap. I tillegg er det visp, kaffemaskin og vannkokere. Det er dessverre ikke fryser eller oppvaskmaskin (ikke innlagt vann).</dd>
               </dl>
             </div>
               
@@ -439,7 +439,7 @@ else
                 <dt>Utleiesjefer</dt>
                 <dd>Sofie Helle, 41 09 06 05</dd>
 
-                <dd>Axel Haraldsen-Sverre, 99 36 49 86</dd>
+                <dd>Erlend Andersen Kinn, 45 88 29 51</dd>
 
                 <dt>Hyttesjef</dt>
                 <dd>Anders Lieblein Røsæg, 99 23 82 12</dd>

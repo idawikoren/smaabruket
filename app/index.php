@@ -107,7 +107,7 @@ require "helper.php";
                 <dd>Se kart nedenfor for anbefalte løyper. Trykk på løypen for beskrivelse.</dd>
 
                 <dt>Vintertraseer</dt>
-                <dd>Se <a href="http://maps.google.no/?q=http://www.skiforeningen.no/markadb/kml/loypestatus/1.kml">kart fra markadatabasen</a>. Hytta ligger like ved Brunkollen. Den store grusveien på kartet ovenfor er også måkt og kan brukes som gangvei.</dd>
+                <dd>Se <a href="https://www.skiforeningen.no/marka/kart/">https://www.skiforeningen.no/marka/kart/</a> for oppkjørte skiløyper. Hytta ligger like ved Brunkollen - se kartet under for posisjon. Den store grusveien fra Fossum til Brunkollen er også måkt og kan brukes som gangvei.</dd>
 
                 <dt>Kjøretillatelse</dt>
                 <dd>Det er ikke anledning å kjøre bil frem til hytta/Brunkollen. Nærmeste parkering er angitt på kartet nedenfor. Løvenskiold Skog innvilger dessverre ikke kjøretillatelser på veiene til leietakere.</dd>

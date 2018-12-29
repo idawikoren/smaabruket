@@ -437,9 +437,9 @@ else
                 <dd><i>Send helst e-post med mindre det haster</i></dd>
                 <dd><a href="mailto:hyttestyret@gmail.com">hyttestyret@gmail.com</a></dd>
                 <dt>Utleiesjefer</dt>
-                <dd>Sofie Helle, 41 09 06 05</dd>
+                <dd>EA Grønneborg, 95 79 12 10</dd>
 
-                <dd>Erlend Andersen Kinn, 45 88 29 51</dd>
+                <dd>Mathias Løland Velle, 41 21 45 41</dd>
 
                 <dt>Hyttesjef</dt>
                 <dd>Anders Lieblein Røsæg, 99 23 82 12</dd>

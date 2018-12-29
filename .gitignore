@@ -3,7 +3,6 @@ app/url.txt
 assets/bower_components
 node_modules
 public/bilder/original
-public/bilder/store
 public/smaabruket.css*
 public/smaabruket.js*
 .sass-cache

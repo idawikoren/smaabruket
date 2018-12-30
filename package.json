@@ -1,14 +1,43 @@
 {
-  "name": "Smaabruket",
+  "name": "smaabruket",
   "private": true,
-  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0",
+    "build": "NODE_ENV=production webpack",
+    "dev": "webpack-dev-server --hot --progress --colors --port 3000 --host 0.0.0.0 --content-base public/ --inline",
+    "tslint": "tslint -c tslint.json -p tsconfig.json",
+    "prettier": "prettier --write './src/**/*.ts{,x}'",
+    "lint": "prettier './src/**/*.ts{,x}' --list-different && tslint --project ."
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  },
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-concat": "~0.5.0",
-    "grunt-contrib-uglify": "~0.5.0",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-contrib-sass": "~0.7.3",
-    "grunt-cli": "~0.1.13",
-    "bower": "~1.3.1"
+    "@types/date-fns": "^2.6.0",
+    "@types/domready": "^1.0.0",
+    "@types/jquery": "^3.3.29",
+    "@types/react": "^16.7.18",
+    "@types/react-dom": "^16.0.11",
+    "autoprefixer": "^9.4.3",
+    "awesome-typescript-loader": "^5.2.1",
+    "css-loader": "^2.1.0",
+    "date-fns": "^1.30.1",
+    "domready": "^1.0.8",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "postcss-loader": "^3.0.0",
+    "prettier": "^1.15.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "tslint": "^5.12.0",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
   }
 }

@@ -1,5 +1,48 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "packageRules": [
+    {
+      "groupName": "tslint",
+      "packagePatterns": [
+        "tslint"
+      ],
+      "automerge": true,
+      "automergeType": "branch"
+    },
+    {
+      "groupName": "prettier",
+      "packagePatterns": [
+        "prettier"
+      ],
+      "automerge": true,
+      "automergeType": "branch"
+    },
+    {
+      "groupName": "webpack",
+      "packagePatterns": [
+        "webpack",
+        "-loader$",
+        "node-sass",
+        "mini-css-extract-plugin",
+        "autoprefixer"
+      ],
+      "automerge": true,
+      "automergeType": "branch"
+    },
+    {
+      "groupName": "typescript",
+      "packagePatterns": [
+        "ts-node",
+        "typescript",
+        "^@types/"
+      ],
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ],
+  "pin": {
+    "automerge": true
+  }
 }

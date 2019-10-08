@@ -104,7 +104,7 @@ function getBookingDateTypes(data: IBooking[]) {
   return data.reduce(
     (acc, booking) => {
       buildDays(booking.from, booking.until).forEach(date => {
-        acc[format(date, 'YYYY-MM-DD')] = booking.type
+        acc[format(date, 'yyyy-MM-dd')] = booking.type
       })
       return acc
     },
@@ -116,7 +116,7 @@ function getWeekDays(firstDay: Date, bookingTypes: IBookingTypes) {
   const days = []
   for (let i = 0; i < 7; i++) {
     const date = addDays(firstDay, i)
-    const dateFormatted = format(date, 'YYYY-MM-DD')
+    const dateFormatted = format(date, 'yyyy-MM-dd')
 
     days.push({
       date,
@@ -205,7 +205,7 @@ class Calendar extends Component<{}, IState> {
     }
 
     const weeks: IWeek[] = convertToWeeks(data.bookings, data.first, data.until)
-    const today = format(new Date(), 'YYYY-MM-DD')
+    const today = format(new Date(), 'yyyy-MM-dd')
 
     return (
       <>
@@ -248,13 +248,13 @@ class Calendar extends Component<{}, IState> {
                       (isToday(day.date) ? ' idag' : '')
                     }
                   >
-                    {format(day.date, 'D')}
+                    {format(day.date, 'd')}
                     {(isFirstDayOfMonth(day.date) ||
                       (weekIdx === 0 && dayIdx === 0)) && (
                       <>
                         .{' '}
                         <span className='month'>{getMonthName(day.date)}</span>
-                        {showYear && <> {format(day.date, 'YYYY')}</>}
+                        {showYear && <> {format(day.date, 'yyyy')}</>}
                       </>
                     )}
                   </td>

@@ -23,7 +23,7 @@
     "autoprefixer": "9.6.5",
     "awesome-typescript-loader": "5.2.1",
     "css-loader": "3.2.0",
-    "date-fns": "2.5.0",
+    "date-fns": "2.5.1",
     "domready": "1.0.8",
     "mini-css-extract-plugin": "0.8.0",
     "node-sass": "4.12.0",

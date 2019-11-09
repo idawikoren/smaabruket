@@ -101,15 +101,12 @@ interface IBookingTypes {
 }
 
 function getBookingDateTypes(data: IBooking[]) {
-  return data.reduce(
-    (acc, booking) => {
-      buildDays(booking.from, booking.until).forEach(date => {
-        acc[format(date, 'yyyy-MM-dd')] = booking.type
-      })
-      return acc
-    },
-    {} as IBookingTypes,
-  )
+  return data.reduce((acc, booking) => {
+    buildDays(booking.from, booking.until).forEach(date => {
+      acc[format(date, 'yyyy-MM-dd')] = booking.type
+    })
+    return acc
+  }, {} as IBookingTypes)
 }
 
 function getWeekDays(firstDay: Date, bookingTypes: IBookingTypes) {

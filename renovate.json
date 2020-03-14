@@ -11,7 +11,7 @@
     {
       "packagePatterns": [
         "node-sass",
-        "mini-css-extract-plugin",
+        "mini-css-extract-plugin"
       ],
       "automerge": true,
       "automergeType": "branch"
